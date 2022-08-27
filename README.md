@@ -50,6 +50,8 @@ Añaden las imagenes <a href="https://github.com/jose89fcb/info-salas-habbo-bot-
 y listo Disfruten del BOT
 <br>
 <br>
-Pueden encontrar más bots de habbo <a href="https://github.com/jose89fcb?tab=repositories&q=habbo">https://github.com/jose89fcb?tab=repositories&q=habbo</a>
+Pueden encontrar más bots de habbo 
+<br>
+<a href="https://github.com/jose89fcb?tab=repositories&q=habbo">https://github.com/jose89fcb?tab=repositories&q=habbo</a>
   <br>
   <a href="https://github.com/jose89fcb/Todos-los-bots-de-habbo">https://github.com/jose89fcb/Todos-los-bots-de-habbo</a> 
